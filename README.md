@@ -34,12 +34,6 @@ By using this project, you agree to:
 - Never publish or use private API keys, cookies, tokens, or credentials.
 - Respect the terms of service and applicable laws.
 
-## Security Notice
-
-Before publishing this project, review the source code and remove any credentials, authentication tokens,
-cookies, API keys, or other secrets. If any real credentials have already been exposed, revoke or rotate
-them before publishing the repository.
-
 ## License
 
 See `LICENSE` for the copyright and usage terms of this repository.
